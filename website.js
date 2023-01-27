@@ -8,3 +8,4 @@ function enrollStudent(student) {
     students.push(student);
   }, 1000);
 }
+// Modification 1
